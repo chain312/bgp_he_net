@@ -1,0 +1,9 @@
+mysql:
+  config:
+    host: mysql
+    port: 3306
+    user: 'root'
+    password: 'mRx740M<g~n'
+proxy:
+  config:
+    url: "http://proxy_pool:5010/"
